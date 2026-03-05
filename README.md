@@ -88,4 +88,4 @@ Configured Azure Monitor to track system health. Developed an Action Group to tr
 <h2>Summary</h2>
 This project serves as a comprehensive proof of concept for a secure Azure landing zone. It bridges the gap between basic cloud connectivity and enterprise-grade networking by incorporating manual routing, centralized monitoring, and automated incident response. <br />
 
-For a detailed breakdown of the technical implementation, specific configurations, and in-depth analysis, please refer to the [Full Project Report](https://github.com/TaiwoG1/) <br />
+For a detailed breakdown of the technical implementation, specific configurations, and in-depth analysis, please refer to the [Full Project Report](https://github.com/TaiwoG1/AzureHubAndSpoke/blob/main/Azure%20Hub%20and%20Spoke%2C%20Cloud%20Networking.pdf) <br />
